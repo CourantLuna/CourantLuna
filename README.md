@@ -56,22 +56,6 @@ I have a solid background in mechatronics, 3D design, and programming, which enh
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CourantLuna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### 📈 Projects & Contributions:
-#### 1. **Project XYZ** - A full-stack application built with React and .NET Core
-- **Frontend:** React, Material-UI
-- **Backend:** .NET Core, Node.js
-- **Database:** MySQL
-- **Features:** User authentication, RESTful APIs, data visualization
-
-#### 2. **Automation System** - Implemented a complete automation system for manufacturing processes
-- **Technologies:** C#, Python, PLC Programming
-- **Tools:** AutoCAD, SolidWorks, Siemens TIA Portal
-
-#### 3. **Educational Robotics Platform** - Developed a platform for teaching robotics to children
-- **Technologies:** Arduino, LEGO Mindstorms, Scratch
-- **Tools:** Figma for prototyping, Visual Studio Code for development
-
----
 ### :zap: Get in Touch:
 <div id="badges">
   <a href="https://www.linkedin.com/in/heydi-garcia-sanchez-b06783144/">
