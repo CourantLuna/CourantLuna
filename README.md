@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Heydi Garcia Sanchez, a FullStack Developer 🚀 from Dominican Republic.
+
+---
 <div id="badges">
   <a href="https://www.linkedin.com/in/heydi-garcia-sanchez-b06783144/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -6,10 +8,13 @@
     <a href="https://github.com/CourantLuna">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
+   <a href="mailto:heydi0811@gmail.com/">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
 
----
 
+---
 ### 👨‍💻About me:
 I'm currently studying Software Engineering at INTEC in Santo Domingo, Dominican Republic <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg" width="30">.
 I'm specializing in Full-Stack Web Development, mastering frontend technologies like React and backend frameworks like .NET Core and Node.JS. I am committed to learning and applying best practices in the field.
@@ -20,8 +25,12 @@ I have a solid background in mechatronics, 3D design, and programming, which enh
 ### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original-wordmark.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" height="40" width="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" height="40" width="40"/>
@@ -36,10 +45,15 @@ I have a solid background in mechatronics, 3D design, and programming, which enh
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/replit/replit-original.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" height="40" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/autodesk.svg" height="40" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" height="40" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" height="40" width="40"/>
+
 </div>
 
 
