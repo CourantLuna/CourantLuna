@@ -17,7 +17,7 @@
 ---
 ### 👨‍💻About me:
 I'm currently studying Software Engineering at INTEC in Santo Domingo, Dominican Republic <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg" width="30">.
-I'm specializing in Full-Stack Web Development, mastering frontend technologies like React and backend frameworks like .NET Core and Node.JS. I am committed to learning and applying best practices in the field.
+I'm specializing in Full-Stack Web Development, mastering frontend technologies like React<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30"/> & Angular<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="30"/> With Librarys as Bootstrap and Material Design (MUI) and backend frameworks like .NET Core and Node.JS. I am committed to learning and applying best practices in the field.
 
 I have a solid background in mechatronics, 3D design, and programming, which enhances my capability to integrate systems seamlessly. I am passionate about leveraging technology to innovate and solve real-world problems.
 
@@ -53,7 +53,17 @@ I have a solid background in mechatronics, 3D design, and programming, which enh
   <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" height="40" width="40"/>
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height="40" width="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/angularmaterial/angularmaterial-original.svg" height="40" width="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" height="40" width="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" height="40" width="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/reactnavigation/reactnavigation-original.svg" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="40" width="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" height="40" width="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" height="40" width="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" height="40" width="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="40" width="40"/> 
 </div>
 
 
